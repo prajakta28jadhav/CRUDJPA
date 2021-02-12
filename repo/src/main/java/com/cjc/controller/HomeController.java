@@ -29,7 +29,8 @@ public class HomeController {
 	public String loginPage() {
 
 		
-
+		
+		System.out.println("welcome");
 		return "login";
 	}
 
