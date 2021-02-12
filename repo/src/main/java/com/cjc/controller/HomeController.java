@@ -27,7 +27,9 @@ public class HomeController {
 
 	@RequestMapping("/login")
 	public String loginPage() {
-		System.out.println("Login Before");
+
+		
+
 		return "login";
 	}
 
