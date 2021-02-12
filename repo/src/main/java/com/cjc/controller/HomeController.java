@@ -30,8 +30,8 @@ public class HomeController {
 
 		
 		
-		System.out.println("reeeeeeeeppppooooo1111");
-		System.out.println("welcome");
+		System.out.println("reeeeeeeeppppooooo");
+		System.out.println("welcome Repository ");
 		return "login";
 	}
 
