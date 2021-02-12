@@ -36,6 +36,7 @@ public class HomeController {
 	@RequestMapping("/register")
 	public String registerPage() {
 		System.out.println("Register");
+		System.out.println("in repo");
 		return "register";
 	}
 
