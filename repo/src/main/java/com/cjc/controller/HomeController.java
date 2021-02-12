@@ -27,7 +27,7 @@ public class HomeController {
 
 	@RequestMapping("/login")
 	public String loginPage() {
-		System.out.println("Login Page");
+		System.out.println("Login repo22222");
 		return "login";
 	}
 
